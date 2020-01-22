@@ -1,2 +1,2 @@
 # Rikaiedgehtml
-A port of rikaikun for edge. Translate Japanese by hovering over words.
+A port of rikaikun for edgeHtml. Translate Japanese by hovering over words.
