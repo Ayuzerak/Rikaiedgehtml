@@ -276,7 +276,7 @@ var rcxMain = {
 	},
 
 	miniHelp:
-		'<span style="font-weight:bold">Rikaiedge enabled!</span><br><br>' +
+		'<span style="font-weight:bold">Rikaiedgehtml enabled!</span><br><br>' +
 		'<table cellspacing=5>' +
 		'<tr><td>A</td><td>Alternate popup location</td></tr>' +
 		'<tr><td>Y</td><td>Move popup location down</td></tr>' +
