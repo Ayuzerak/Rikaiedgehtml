@@ -23,7 +23,7 @@
             "all_frames": true
         }
     ],
-    "description": "A port of rikaikun for edge. Translate Japanese by hovering over words.",
+    "description": "A port of rikaikun for edgeHtml. Translate Japanese by hovering over words.",
     "icons": {
         "48": "images/icon48.png",
         "128": "images/icon128.png"
